@@ -1,0 +1,1 @@
+/Users/mykytazhygulskyy/Desktop/magento2/app/code/Magento/Msrp/view/frontend/web/js/view/checkout/minicart/subtotal/totals.js

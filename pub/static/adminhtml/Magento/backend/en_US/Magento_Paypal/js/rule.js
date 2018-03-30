@@ -1,1 +1,0 @@
-/Users/mykytazhygulskyy/Desktop/magento2/app/code/Magento/Paypal/view/adminhtml/web/js/rule.js
