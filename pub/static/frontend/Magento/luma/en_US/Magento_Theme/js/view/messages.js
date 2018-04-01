@@ -1,1 +1,1 @@
-/Users/mykytazhygulskyy/Desktop/magento2/app/code/Magento/Theme/view/frontend/web/js/view/messages.js
+/Users/mykytazhygulskyy/Desktop/code/magento2/app/code/Magento/Theme/view/frontend/web/js/view/messages.js

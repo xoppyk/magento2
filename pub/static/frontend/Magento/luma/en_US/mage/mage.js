@@ -1,1 +1,1 @@
-/Users/mykytazhygulskyy/Desktop/magento2/lib/web/mage/mage.js
+/Users/mykytazhygulskyy/Desktop/code/magento2/lib/web/mage/mage.js

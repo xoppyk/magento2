@@ -1,1 +1,1 @@
-/Users/mykytazhygulskyy/Desktop/magento2/lib/web/mage/smart-keyboard-handler.js
+/Users/mykytazhygulskyy/Desktop/code/magento2/lib/web/mage/smart-keyboard-handler.js

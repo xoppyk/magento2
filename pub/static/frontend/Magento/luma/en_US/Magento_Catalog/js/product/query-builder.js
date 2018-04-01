@@ -1,1 +1,1 @@
-/Users/mykytazhygulskyy/Desktop/magento2/app/code/Magento/Catalog/view/frontend/web/js/product/query-builder.js
+/Users/mykytazhygulskyy/Desktop/code/magento2/app/code/Magento/Catalog/view/frontend/web/js/product/query-builder.js

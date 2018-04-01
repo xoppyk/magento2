@@ -116,6 +116,7 @@ return [
         'Magento_Weee' => 1,
         'Magento_CatalogWidget' => 1,
         'Magento_Wishlist' => 1,
-        'Magento_WishlistAnalytics' => 1
+        'Magento_WishlistAnalytics' => 1,
+        'Vendor_Module' => 1
     ]
 ];

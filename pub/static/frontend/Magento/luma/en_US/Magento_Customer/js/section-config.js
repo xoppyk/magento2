@@ -1,1 +1,1 @@
-/Users/mykytazhygulskyy/Desktop/magento2/app/code/Magento/Customer/view/frontend/web/js/section-config.js
+/Users/mykytazhygulskyy/Desktop/code/magento2/app/code/Magento/Customer/view/frontend/web/js/section-config.js

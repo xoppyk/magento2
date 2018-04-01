@@ -1,1 +1,1 @@
-/Users/mykytazhygulskyy/Desktop/magento2/app/code/Magento/Search/view/frontend/web/form-mini.js
+/Users/mykytazhygulskyy/Desktop/code/magento2/app/code/Magento/Search/view/frontend/web/form-mini.js

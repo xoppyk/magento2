@@ -1,1 +1,1 @@
-/Users/mykytazhygulskyy/Desktop/magento2/app/code/Magento/Captcha/view/frontend/web/js/view/checkout/defaultCaptcha.js
+/Users/mykytazhygulskyy/Desktop/code/magento2/app/code/Magento/Captcha/view/frontend/web/js/view/checkout/defaultCaptcha.js

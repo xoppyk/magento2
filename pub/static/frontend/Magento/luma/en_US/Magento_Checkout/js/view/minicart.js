@@ -1,1 +1,1 @@
-/Users/mykytazhygulskyy/Desktop/magento2/app/code/Magento/Checkout/view/frontend/web/js/view/minicart.js
+/Users/mykytazhygulskyy/Desktop/code/magento2/app/code/Magento/Checkout/view/frontend/web/js/view/minicart.js

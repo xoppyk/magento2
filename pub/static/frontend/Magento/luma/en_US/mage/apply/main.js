@@ -1,1 +1,1 @@
-/Users/mykytazhygulskyy/Desktop/magento2/lib/web/mage/apply/main.js
+/Users/mykytazhygulskyy/Desktop/code/magento2/lib/web/mage/apply/main.js
