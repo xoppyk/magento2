@@ -1,6 +1,7 @@
 <?php
 return [
     'modules' => [
+        'First_Hello' => 1,
         'Inchoo_Helloworld' => 1,
         'Magento_Store' => 1,
         'Magento_AdvancedPricingImportExport' => 1,
