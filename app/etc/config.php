@@ -118,6 +118,7 @@ return [
         'Magento_CatalogWidget' => 1,
         'Magento_Wishlist' => 1,
         'Magento_WishlistAnalytics' => 1,
+        'Mageplaza_HelloWorld' => 1,
         'Vendor_Module' => 1
     ]
 ];
