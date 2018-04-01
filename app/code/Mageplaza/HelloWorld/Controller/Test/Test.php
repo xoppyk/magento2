@@ -1,5 +1,5 @@
 <?php
-namespace Mageplaza\HelloWorld\Controller\Index;
+namespace Mageplaza\HelloWorld\Controller\Test;
 
 class Test extends \Magento\Framework\App\Action\Action
 {
